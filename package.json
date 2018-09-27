@@ -1,0 +1,23 @@
+{
+  "name": "gcp-app-engine-node-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asupkay/GCP-App-Engine-Node-Tutorial.git"
+  },
+  "author": "Alex Supkay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asupkay/GCP-App-Engine-Node-Tutorial/issues"
+  },
+  "homepage": "https://github.com/Asupkay/GCP-App-Engine-Node-Tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
