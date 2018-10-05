@@ -1,5 +1,5 @@
 # App Engine Node.js Hello World Tutorial
-This is a tutorial on how to deploy a Node.js app to App Engine Standard Environment. I chose the standard environment because of its better scaling abilities and scale to zero functionality.
+This is a tutorial on how to deploy a Node.js app to App Engine Standard Environment. I chose the standard environment because of its better scaling abilities and scale to zero functionality. This leads to less overall cost. You can read more from the presentation also saved to this directory.
 
 # Steps
 1. Create a GCP project in the Google Cloud console
